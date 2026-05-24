@@ -1,0 +1,1 @@
+En la ruta principal se muestra el mensaje “Servidor activo”. En la ruta /saludo se muestra el mensaje “Hola comunidad”. En la ruta /mensaje/juan el servidor recibe el nombre desde la URL y responde mostrando “Hola juan”.
