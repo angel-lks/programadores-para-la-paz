@@ -1,0 +1,5 @@
+{
+  "tipo": "Basuras",
+  "descripcion": "Los vecinos reportan acumulación de residuos en una de las esquinas del barrio."
+}
+
