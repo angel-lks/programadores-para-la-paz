@@ -1,0 +1,4 @@
+La interfaz tendría un formulario para crear un nuevo reporte con un título, una descripción además de una categoría. También mostraría una lista con los reportes disponibles para que cualquier usuario pueda consultarlos.
+Cada reporte incluiría un botón para indicar apoyo o seguimiento.
+Junto al botón aparecería un contador con el número de apoyos recibidos.
+El diseño sería sencillo, fácil de entender además de evitar mostrar información privada de los usuarios.

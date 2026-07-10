@@ -1,0 +1,8 @@
+Una plataforma ciudadana necesita una base de datos para organizar la información de forma permanente.
+También facilita el seguimiento de reportes además de mantener un historial de las actividades realizadas.
+La autenticación permite verificar la identidad de los usuarios antes de acceder a funciones importantes.
+Esto ayuda a proteger la información frente a accesos no autorizados.
+Además, es necesario limitar los permisos según el rol de cada usuario.
+La protección de datos fortalece la confianza de la comunidad.
+Una plataforma segura favorece la participación responsable. También reduce riesgos relacionados con el uso indebido de la información.
+Por eso, una buena organización de los datos es tan importante como el funcionamiento de la aplicación.
