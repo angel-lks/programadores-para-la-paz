@@ -1,0 +1,9 @@
+1. Como ciudadano quiero consultar el estado de un reporte para conocer el avance de mi solicitud.
+
+2. Como administrador quiero iniciar sesión para gestionar la plataforma de forma segura.
+
+3. Como ciudadano quiero registrar un reporte con una descripción clara para informar una situación en mi comunidad.
+
+4. Como moderador quiero actualizar el estado de un reporte para mantener informados a los usuarios.
+
+5. Como administrador quiero generar un listado de reportes para identificar las situaciones más frecuentes.
