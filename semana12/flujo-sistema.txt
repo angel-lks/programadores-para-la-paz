@@ -1,0 +1,5 @@
+1. Un usuario ingresa a la plataforma y completa el formulario para proponer una nueva causa comunitaria.
+2. El sistema valida que la información esté completa antes de guardarla.
+3. La causa aparece disponible para que otros ciudadanos puedan conocerla.
+4. Las personas interesadas registran su apoyo y el sistema actualiza el total de participantes.
+5. Cuando el proceso finaliza, se crea un documento con el resumen de la causa y el número de apoyos obtenidos.

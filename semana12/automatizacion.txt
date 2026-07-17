@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Una causa alcanza la cantidad mínima de apoyos establecida por la plataforma.
+
+Mensaje enviado:
+"La causa ya cuenta con el respaldo necesario para continuar con el siguiente proceso."
+
+Información que no debe enviarse:
+Datos de contacto de los participantes, documentos de identidad, credenciales de acceso, comentarios privados ni otra información que permita identificar a los usuarios.
